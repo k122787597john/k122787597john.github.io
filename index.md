@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 這是我第一個網頁 我要介紹 NBA 球星 
 ## lebron james 
