@@ -30,7 +30,7 @@
   </div>
 </div>
 <div id="aboutUs">
-  <div class="container"> <img src="img/aboutusIcon.png" alt="icon">
+  <div class="container"> <img src="ball.jpg" alt="icon">
     <h2>興趣</h2>
     <p>籃球 </p>
     <p>麻將</p>
