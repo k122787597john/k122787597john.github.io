@@ -30,3 +30,7 @@ HIGHLIGHT [灌籃精華](https://www.youtube.com/watch?v=xHM671-dpGA).
 ## NBA時期
 　　2003年NBA選秀以首輪第一順位之姿被克里夫蘭騎士隊選中，2007年殺進NBA總冠軍賽，惜最後被馬刺隊以4:0掃地出局。2009年、2010年時獲兩屆NBA最有價值球員，而在2012年則帶領熱火隊贏得NBA總冠軍，不但獲得個人生涯中第三個NBA最有價值球員，同年季後賽後還獲得第一座NBA總冠軍、NBA總決賽MVP及奧運金牌，達成單季三冠王，追平1992年Michael Jordan所創下的紀錄。2013年再度率領熱火完成NBA總冠軍二連霸，並包辦兩年NBA例行賽與NBA總決賽的MVP，為繼Bill Russell、Michael Jordan後，NBA史上第三人。2014年尋求三連霸，連四年打進NBA總冠軍賽，生涯第三度在總冠軍戰遭逢馬刺隊，被以4:1淘汰。最終在球季結束後選擇回到老東家騎士隊。生平簡介
 　　LeBron James，美國職業籃球運動員，1984年生於美國俄亥俄州Akron，主要位置是小前鋒，亦可擔任大前鋒、得分後衛與控球後衛。
+  
+  
+<button id="hide_c" class="button" style="background:#ebd0e8;color:#37419a;position:absolute;bottom:65%;left:5%;font-size:45px;">王</button>
+
