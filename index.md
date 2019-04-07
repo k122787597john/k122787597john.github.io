@@ -1,8 +1,4 @@
-<!doctype html>
-<html lang="zh-TW">
-<head>
-<meta charset="utf-8">
-<title>eFood 美食餐廳</title>
+
 <meta name="description" content="eFood 美食餐廳的描述說明">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" type="text/css" href="css/reset.css">
