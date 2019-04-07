@@ -80,4 +80,5 @@ $(function(){
 });
 </script>
 </body>
+<a class="top" href+"#">回到頂部</a> ==$0
 </html>
