@@ -31,11 +31,10 @@
 </div>
 <div id="aboutUs">
   <div class="container"> <img src="img/aboutusIcon.png" alt="icon">
-    <h2>A NEW GENERATION OF COOKING</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
-    <p>Aspernatur, hic, a, inventore cumque totam aliquam voluptatem quas cupiditate</p>
-    <p>nobis modi dolor officiis quaerat fugiat quis at </p>
-    <p>error repellat? Optio, earum!</p>
+    <h2>興趣</h2>
+    <p>籃球 </p>
+    <p>麻將</p>
+    <p>健身 </p>
   </div>
 </div>
 <div id="content">
