@@ -22,10 +22,10 @@
   </div>
   <div id="banner">
     <ul class="bxslider">
-      <li><img src="img/banner01.jpg" alt="pic" /></li>
-      <li><img src="img/banner02.jpg" alt="pic" /></li>
-      <li><img src="img/banner03.jpg" alt="pic" /></li>
-      <li><img src="img/banner04.jpg" alt="pic" /></li>
+      <li><img src="1.jpg" alt="pic" /></li>
+      <li><img src="2.jpg" alt="pic" /></li>
+      <li><img src="3.jpg" alt="pic" /></li>
+      <li><img src="4.jpg" alt="pic" /></li>
     </ul>
   </div>
 </div>
