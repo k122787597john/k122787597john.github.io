@@ -93,9 +93,6 @@ var sth;
                 //判斷是否存在以下兩個例項
                 if(document.documentElement || document.documentElement.scrollTop)
                 {
-                 if(toTop == 0){
-                clearInterval(timer); 
-                }
                     if(document.documentElement.scrollTop<=0){
                         clearInterval(sth);
                     }else{
@@ -108,6 +105,8 @@ var sth;
                         window.scrollBy(0,-25);
                     }
                 }
+                   if(toTop == 0){
+                clearInterval(timer);
             }
 </script>
 
