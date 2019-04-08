@@ -2,7 +2,7 @@
   <div class="container">
     <h1><a href="index.html" title="eFood 首頁" id="logo">eFood 美食</a></h1>
     <div id="nav">
-      <ul><li><a href="about.html" title="高中">高中時期</a></li><li><a href="menu.html" title="餐飲目錄">Menu</a></li><li><a href="news.html" title="最新消息">News</a></li><li><a href="booking.html" title="線上訂位">Booking</a></li><li><a href="contact.html" title="聯絡我們">Contact us</a></li><li class="home"><a href="index.html" title="回首頁">Home</a></li></ul>
+      <ul><li><a href="about.html" title="高中">高中時期</a></li><li><a href="menu.html" title="職業生涯">職業生涯</a></li><li><a href="news.html" title="最新消息">News</a></li><li><a href="booking.html" title="線上訂位">Booking</a></li><li><a href="contact.html" title="聯絡我們">Contact us</a></li><li class="home"><a href="index.html" title="回首頁">Home</a></li></ul>
     </div>
   </div>
   <div id="banner">
