@@ -105,8 +105,7 @@ var sth;
                         window.scrollBy(0,-25);
                     }
                 }
-                   if(toTop == 0){
-                clearInterval(timer);
+                
             }
 </script>
 
