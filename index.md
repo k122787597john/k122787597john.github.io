@@ -45,15 +45,7 @@
 2001-02	Junior	  27	300-531	0.565	48-141	0.340	108-182	0.593	8.3	5.7	3.3	1.7	29.0
 2002-03	Senior	  26	295-527	0.560	60-157	0.382	80-118	0.678	9.6	4.6	3.4	1.9	31.6
 <body>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
+
 <a href="javascript:;" class="top" id="top">返回頂部</a>
 </body>
 <style>
