@@ -46,3 +46,26 @@
 2002-03	Senior	  26	295-527	0.560	60-157	0.382	80-118	0.678	9.6	4.6	3.4	1.9	31.6
 
 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Gotop</title>
+  <link rel="stylesheet" href="docs/index.css">
+</head>
+<body>
+  <h1>Gotop</h1>
+  <div class="demo-container">
+    <div style="height: 4000px;">向下滚动</div>
+    <button class="gotop" type="button" data-toggle="gotop">返顶</button>
+  </div>
+
+  <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="dist/gotop.js"></script>
+</body>
+</html>
