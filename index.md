@@ -10,4 +10,4 @@
 <div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">選用標楷體字型</div>
 
 
-<div style="width:300px;height:60px;border:3px #cccccc dashed;">安安</div>
+<div style="width:300px;height:60px;border:3px #cccccc dashed;">         安安</div>
