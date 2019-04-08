@@ -94,17 +94,17 @@ var sth;
                 if(document.documentElement || document.documentElement.scrollTop)
                 {
                     if(document.documentElement.scrollTop<=0){
-                        clearInterval(sth);
-                        break;
+                        clearInterval(sth);                        
                     }else{
                         window.scrollBy(0,-25);
+                        break;
                     }
                 }else{                                                           
                     if(document.body.scrollTop<=0){
-                        clearInterval(sth);
-                        break;
+                        clearInterval(sth);                        
                     }else{
                         window.scrollBy(0,-25);
+                        break;
                     }
                 }
                 
