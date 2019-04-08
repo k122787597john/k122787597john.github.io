@@ -90,7 +90,7 @@ var sth;
             function GoTopFunctionEachScrollBy(eachHeight){
 
                 //判斷是否存在以下兩個例項
-                if(document.documentElement && document.documentElement.scrollTop)
+                if(document.documentElement || document.documentElement.scrollTop)
                 {
                     if(document.documentElement.scrollTop<=0){
                         clearInterval(sth);
