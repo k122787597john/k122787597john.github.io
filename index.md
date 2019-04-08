@@ -61,7 +61,7 @@
 </style>
 
 <div>
-<a id="GoTop" onclick="GoTopFunction()" href="javascript:void(0)">∧</a>
+<a id="GoTop" onclick="GoTopFunction()" href="javascript:void(0)"></a>
 </div>
 
 <script type="text/javascript">
