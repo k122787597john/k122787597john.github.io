@@ -14,14 +14,13 @@
     </ul>
   </div>
 </div>
+
 測試
 <div style="border:2px orange solid;padding:15px;">
-<div style="background-color:pink;">這是個有粉紅色背景色的 HTML div
+<div style="background-color:pink;">這是個有粉紅色背景色的 HTML div</div>
+   
   
-  
-  
-  
-</div>
+
 
 
 
@@ -35,6 +34,7 @@
 <div style="width:300px;height:60px;border:3px #cccccc dashed;">         安安</div>
 
 
+<input type="button" value="按鈕值" name="按鈕名稱" style="width:100px;height:30px;">
 
 
 
