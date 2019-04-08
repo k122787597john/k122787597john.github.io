@@ -59,7 +59,7 @@
   <h1>Gotop</h1>
   <div class="demo-container">
     <div style="height: 4000px;">向下滚动</div>
-    <button class="gotop" type="button" data-toggle="gotop">返顶</button>
+    <button class="gotop" type="button" data-toggle="gotop">GO TOP</button>
   </div>
 
   <script
