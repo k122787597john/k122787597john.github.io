@@ -10,7 +10,6 @@
       <li><img src="1.jpg" alt="pic" /></li>
       <li><img src="2.jpg" alt="pic" /></li>
       <li><img src="3.jpg" alt="pic" /></li>
-      <li><img src="4.jpg" alt="pic" /></li>
     </ul>
   </div>
 </div>
@@ -31,7 +30,7 @@
 <div style="font-family:DFKai-sb;border:2px #ccc solid;padding:10px;">選用標楷體字型</div>
 
 
-<div style="width:300px;height:60px;border:3px #cccccc dashed;">         安安</div>
+<div style="width:300px;height:60px;border:3px #cccccc dashed;">安安</div>
 
 
 <input type="button" value="按鈕值" name="按鈕名稱" style="width:100px;height:30px;">
