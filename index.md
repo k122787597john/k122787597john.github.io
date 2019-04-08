@@ -31,7 +31,7 @@
 在高中四年級，這一年, 雷霸龍平均得到31.6分9.6個籃板4.6次助攻3.4個抄截，雷霸龍再次獲選為亥俄州籃球先生及USA Today高中全美第一隊，並連續兩年蟬聯Gatorade National Player of the Year Award，同時他也出席了三大年終高中明星賽—the EA Sports Roundball Classic，the Jordan Capital Classic，and the 2003 McDonald's All-American Game，聖文森及聖瑪麗高中也在四年內第三度奪得州冠軍。
 <h2>高中生涯獲得榮譽和成績</h2>
 <ul>
-奈史密斯高中籃壇MVP：2003年</li>
+<li>奈史密斯高中籃壇MVP：2003年</li>
 <li>高中四年籃球生涯中總共獲得2657分、892個籃板和523次助攻</li>
 <li>連續三季獲得俄亥俄州「高中籃球先生」的榮譽（2000－01、2001－02、2002－03）</li>
 <li>2000-01賽季成為史上第一位入選《今日美國》全美第一隊的高二生</li>
