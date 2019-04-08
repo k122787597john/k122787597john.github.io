@@ -95,12 +95,14 @@ var sth;
                 {
                     if(document.documentElement.scrollTop<=0){
                         clearInterval(sth);
+                        break;
                     }else{
                         window.scrollBy(0,-25);
                     }
                 }else{                                                           
                     if(document.body.scrollTop<=0){
                         clearInterval(sth);
+                        break;
                     }else{
                         window.scrollBy(0,-25);
                     }
