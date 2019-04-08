@@ -46,44 +46,70 @@
 2002-03	Senior	  26	295-527	0.560	60-157	0.382	80-118	0.678	9.6	4.6	3.4	1.9	31.6
 <body>
 
-<a href="javascript:;" class="top" id="top">返回頂部</a>
-</body>
-<style>
-/* css部分 */
-div {
-    height: 150px;
-}
-div:nth-child(odd) {
-    background-color: #8ae238;
-}
-div:nth-child(even) {
-    background-color: #66d9ef;
-}
-.top {
-    position: fixed;
-    right: 50px;
-    bottom: 50px;
-    display: block;
-    width: 50px;
-    height: 50px;
-    font-size: 20px;
-    background-color: white;
-    display: none;
-}
-</style>
-<script>
-/* js代码 */
-$(window).on('scroll', function () {
-    // 判断显示还是隐藏按钮
-    if($(this).scrollTop()>=$(this).height()){
-        $('#top').fadeIn('slow');
-    }else {
-        $('#top').fadeOut('slow');
-    }
 
-});
-$('#top').on('click',function () {
-    // 设置滚动动画，这里注意使用的是$('body')不是$(window)
-    $('body').animate({scrollTop:'0'},500);
-});
+
+
+
+
+<style type="text/css">
+#GoTop{
+                width:40px;
+                height:40px;
+                background-color:#F59E1D;
+                position:fixed;
+                bottom:30px;
+                right:30px;
+                font-size:19pt;
+                text-align:center;
+                color:#FFF;
+                text-decoration:none;
+            }
+</style>
+
+<div>
+<a id="GoTop" onclick="GoTopFunction()" href="javascript:void(0)">∧</a>
+</div>
+
+<script type="text/javascript">
+            $(document).ready(function(){
+                $("#GoTop").mouseenter(
+                    function(){
+                        $("#GoTop").css("color","#FFF");
+                        $("#GoTop").css("background-color","#F3D117");
+                        $("#GoTop").css("text-decoration","none");
+                    }
+                );
+                $("#GoTop").mouseleave(
+                    function(){
+                        $("#GoTop").css("color","#FFF");
+                        $("#GoTop").css("background-color","#F59E1D");
+                        $("#GoTop").css("text-decoration","none");
+                    }
+                );
+            });
+
+var sth;
+            function GoTopFunction(){
+                FourLeafCloverZCVar=setInterval(GoTopFunctionEachScrollBy,10);    
+            }
+
+            function GoTopFunctionEachScrollBy(eachHeight){
+
+                //判斷是否存在以下兩個例項
+                if(document.documentElement || document.documentElement.scrollTop)
+                {
+                    if(document.documentElement.scrollTop<=0){
+                        clearInterval(sth);
+                    }else{
+                        window.scrollBy(0,-25);
+                    }
+                }else{                                                           
+                    if(document.body.scrollTop<=0){
+                        clearInterval(sth);
+                    }else{
+                        window.scrollBy(0,-25);
+                    }
+                }
+            }
 </script>
+
