@@ -45,3 +45,64 @@
 2001-02	Junior	  27	300-531	0.565	48-141	0.340	108-182	0.593	8.3	5.7	3.3	1.7	29.0
 2002-03	Senior	  26	295-527	0.560	60-157	0.382	80-118	0.678	9.6	4.6	3.4	1.9	31.6
 
+<style type="text/css">
+#GoTop{
+                width:40px;
+                height:40px;
+                background-color:#F59E1D;
+                position:fixed;
+                bottom:30px;
+                right:30px;
+                font-size:19pt;
+                text-align:center;
+                color:#FFF;
+                text-decoration:none;
+            }
+</style>
+
+<div>
+<a id="GoTop" onclick="GoTopFunction()" href="javascript:void(0)">∧</a>
+</div>
+
+<script type="text/javascript">
+            $(document).ready(function(){
+                $("#GoTop").mouseenter(
+                    function(){
+                        $("#GoTop").css("color","#FFF");
+                        $("#GoTop").css("background-color","#F3D117");
+                        $("#GoTop").css("text-decoration","none");
+                    }
+                );
+                $("#GoTop").mouseleave(
+                    function(){
+                        $("#GoTop").css("color","#FFF");
+                        $("#GoTop").css("background-color","#F59E1D");
+                        $("#GoTop").css("text-decoration","none");
+                    }
+                );
+            });
+
+var sth;
+            function GoTopFunction(){
+                FourLeafCloverZCVar=setInterval(GoTopFunctionEachScrollBy,10);    
+            }
+
+            function GoTopFunctionEachScrollBy(eachHeight){
+
+                //判斷是否存在以下兩個例項
+                if(document.documentElement &;&; document.documentElement.scrollTop)
+                {
+                    if(document.documentElement.scrollTop<=0){
+                        clearInterval(sth);
+                    }else{
+                        window.scrollBy(0,-25);
+                    }
+                }else{                                                           
+                    if(document.body.scrollTop<=0){
+                        clearInterval(sth);
+                    }else{
+                        window.scrollBy(0,-25);
+                    }
+                }
+            }
+</script>
