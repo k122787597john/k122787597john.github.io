@@ -146,13 +146,11 @@ var sth;
         <h1>King Tzeng的鐵人地圖</h1>
         <div id="map"></div>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         function initMap() {
-        var Station_latlng = { lat: 25.046891, lng: 121.516602 }; // 台北車站的經緯度
         var map = new google.maps.Map(document.getElementById('map'), {
+            center: { lat: 25.046891, lng: 121.516602 },
             zoom: 14, //放大的倍率
-            center: Station_latlng //初始化的地圖中心位置
-        });
+                   });
 
         //--------下面是呼叫一個新marker------
 
