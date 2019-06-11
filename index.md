@@ -107,6 +107,7 @@ var sth;
                 }
                 
             }
+            </script>
             
            <!DOCTYPE html>
 <html lang="zh-tw">
@@ -168,5 +169,5 @@ var sth;
 </body>
 
 </html>
-</script>
+
 
