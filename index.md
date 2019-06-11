@@ -162,7 +162,7 @@ var sth;
         });
 
     }
-    
+    </script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBfzh4lVZEE-hmjcjbRg6kfr5fqYq8j61M=initMap">
     </script>
 </body>
